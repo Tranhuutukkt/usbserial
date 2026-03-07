@@ -49,6 +49,6 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.Tranhuutukkt:felHR85_UsbSerial:6.1.1'
+    implementation 'com.github.Tranhuutukkt:felHR85_UsbSerial:6.1.2'
 }
 
